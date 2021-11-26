@@ -1,0 +1,2 @@
+# Editable install with no version control (snippets==0.1)
+-e /Users/schnell/Desktop/vscode_snippet_converter
