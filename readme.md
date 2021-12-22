@@ -17,7 +17,7 @@ import snippets
 converter = snippets.Converter()
 
 src = \
-"""
+r"""
 #include <stdio.h>
 #include <stdlib.h>
 
