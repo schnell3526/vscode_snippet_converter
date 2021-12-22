@@ -29,5 +29,5 @@ class Converter:
         snippet[prefix]["body"] = lines
         snippet[prefix]["description"] = description
 
-        res = json.dumps(snippet, indent=4)
+        res = json.dumps(snippet, indent=4, ensure_ascii=False)
         return res
